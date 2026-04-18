@@ -10,6 +10,10 @@
 WORKING OF APIs, uploaded an image, GRAB_ID assigned : 
 <img width="820" height="968" alt="image" src="https://github.com/user-attachments/assets/c3f308d1-17bb-481b-93e0-46d65d7ff50d" />
 
+Getting Image by that GRAB_ID : 
+<img width="1063" height="932" alt="image" src="https://github.com/user-attachments/assets/c4a00cb4-e720-4fc1-99d5-b9125a1478b6" />
+
+
 ---
 
 ## Table of Contents

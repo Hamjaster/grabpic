@@ -4,6 +4,9 @@
 >
 > Built for large-scale events — imagine a marathon with 500 runners and 50,000 photos. Instead of manual tagging, Grabpic uses AI to automatically detect, index, and retrieve images by face.
 
+
+Words are CHEAP, lets talk about RESULTS :
+
 <img width="1751" height="1021" alt="image" src="https://github.com/user-attachments/assets/0848b294-63c0-4b2d-a853-729c6511f132" />
 
 

@@ -4,19 +4,20 @@
 >
 > Built for large-scale events — imagine a marathon with 500 runners and 50,000 photos. Instead of manual tagging, Grabpic uses AI to automatically detect, index, and retrieve images by face.
 
+---
 
 Words are CHEAP, lets talk about RESULTS :
 
 <img width="1751" height="1021" alt="image" src="https://github.com/user-attachments/assets/0848b294-63c0-4b2d-a853-729c6511f132" />
 
 
-WORKING OF APIs, uploaded an image, GRAB_ID assigned : 
+# WORKING OF APIs, uploaded an image, GRAB_ID assigned : 
 <img width="820" height="968" alt="image" src="https://github.com/user-attachments/assets/c3f308d1-17bb-481b-93e0-46d65d7ff50d" />
 
-Getting Image by that GRAB_ID : 
+# Getting Image by that GRAB_ID : 
 <img width="1063" height="932" alt="image" src="https://github.com/user-attachments/assets/c4a00cb4-e720-4fc1-99d5-b9125a1478b6" />
 
-Authenticating by SELFIE :
+# Authenticating by SELFIE :
 <img width="1520" height="920" alt="image" src="https://github.com/user-attachments/assets/b88d57bf-1423-401d-bfd2-e0032a50c87e" />
 
 

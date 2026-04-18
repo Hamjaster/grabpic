@@ -25,6 +25,10 @@ Words are CHEAP, lets talk about RESULTS :
 
 I tested the whole flow with my images, got my GRAB_ID based on my photo, retrieved my image from GRAB_ID, and authenticated using a selfie. tested results above with image proof!
 
+Since the project uses DeepFace and TensorFlow, it couldn't be deployed on free servers. However, it works perferctly end-to-end in local
+<img width="1466" height="622" alt="image" src="https://github.com/user-attachments/assets/7c450f9b-0ede-4cad-bf7e-0a4523af4c5b" />
+
+
 ---
 
 ## Table of Contents

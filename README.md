@@ -6,12 +6,13 @@
 
 ---
 
-Words are CHEAP, lets talk about RESULTS :
+Words are CHEAP, let's talk about RESULTS :
 
 <img width="1751" height="1021" alt="image" src="https://github.com/user-attachments/assets/0848b294-63c0-4b2d-a853-729c6511f132" />
 
+## Proof testing of APIS :
 
-# WORKING OF APIs, uploaded an image, GRAB_ID assigned : 
+# Uploaded an image, GRAB_ID assigned : 
 <img width="820" height="968" alt="image" src="https://github.com/user-attachments/assets/c3f308d1-17bb-481b-93e0-46d65d7ff50d" />
 <img width="1274" height="145" alt="image" src="https://github.com/user-attachments/assets/48e63485-20d0-4ce7-9792-5e27f84e0dc2" />
 
@@ -20,7 +21,8 @@ Words are CHEAP, lets talk about RESULTS :
 <img width="1063" height="932" alt="image" src="https://github.com/user-attachments/assets/c4a00cb4-e720-4fc1-99d5-b9125a1478b6" />
 
 # Authenticating by SELFIE :
-<img width="1520" height="920" alt="image" src="https://github.com/user-attachments/assets/b88d57bf-1423-401d-bfd2-e0032a50c87e" />
+<img width="1492" height="887" alt="image" src="https://github.com/user-attachments/assets/476d6d10-558b-4000-bc15-f22c0c94eee7" />
+
 
 
 I tested the whole flow with my images, got my GRAB_ID based on my photo, retrieved my image from GRAB_ID, and authenticated using a selfie. tested results above with image proof!

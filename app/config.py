@@ -5,6 +5,7 @@ from functools import lru_cache
 class Settings(BaseSettings):
     supabase_url: str
     supabase_key: str
+    supabase_db_url: str = ""
 
     face_model: str = "Facenet512"
     face_detector: str = "retinaface"

@@ -6,6 +6,10 @@
 
 <img width="1751" height="1021" alt="image" src="https://github.com/user-attachments/assets/0848b294-63c0-4b2d-a853-729c6511f132" />
 
+
+WORKING OF APIs, uploaded an image, GRAB_ID assigned : 
+<img width="820" height="968" alt="image" src="https://github.com/user-attachments/assets/c3f308d1-17bb-481b-93e0-46d65d7ff50d" />
+
 ---
 
 ## Table of Contents

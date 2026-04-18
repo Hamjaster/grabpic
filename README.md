@@ -13,6 +13,11 @@ WORKING OF APIs, uploaded an image, GRAB_ID assigned :
 Getting Image by that GRAB_ID : 
 <img width="1063" height="932" alt="image" src="https://github.com/user-attachments/assets/c4a00cb4-e720-4fc1-99d5-b9125a1478b6" />
 
+Authenticating by SELFIE :
+<img width="1520" height="920" alt="image" src="https://github.com/user-attachments/assets/b88d57bf-1423-401d-bfd2-e0032a50c87e" />
+
+
+I tested the whole flow with my images, got my GRAB_ID based on my photo, retrieved my image from GRAB_ID, and authenticated using a selfie. tested results above with image proof!
 
 ---
 
